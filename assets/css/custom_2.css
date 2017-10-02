@@ -1,0 +1,18 @@
+.tblTitle { color : white ; background-color : rgb( 0 , 68 , 106 ) ; font-weight : bold ; width : 200px ; }
+.tblSubHeader { color : black ; background-color : rgb( 174 , 225 , 255 ) ; font-weight : bold ; width : 200px ; }
+
+.mainheader { color : rgb( 31 , 73 , 125 ) ; font-size : 600% ; font-weight : bold ; padding-top : 10px ; padding-bottom : 10px ; }
+.midheader { color : rgb( 17 , 146 , 209 ) ; font-size : 400% ; font-weight : bold ; }
+.subheader { color : rgb( 250 , 125 , 0 ) ; font-size : 200% ; font-weight : bold ; }
+.actionheader { color : #551A8B ; font-size : 100% ; font-weight : bold ; margin-top : 5px ; }
+.actionheader:before { content : "ACTION : " ; font-size : 130% ; color : #9975B9 ; }
+.questionheader { color : #E6A3AD ; font-size : 100% ; font-weight : bold ; margin-top : 5px ; }
+.questionheader:before { content : "Question : " ; font-size : 130% ; color : #FF69B4 ; }
+
+.tab { margin-left : 50px ; }
+.edited { color : red ; }
+a { color : black ; text-decoration : none ; }
+ul { padding : 0 ; margin-top : 5px ; margin-bottom : 5px ; }
+li ul { margin-top : 5px ; margin-bottom : 5px ; }
+
+hr { padding-top : 1px ; }

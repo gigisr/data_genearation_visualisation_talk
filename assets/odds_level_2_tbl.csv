@@ -1,0 +1,6 @@
+out_value       ,filter_1        ,odds,cumulative_odds
+General         ,Aviation        ,0.3 ,0.3
+Airports        ,Aviation        ,0.7 ,1
+Single          ,Motor           ,0.8 ,0.8
+Fleet           ,Motor           ,0.2 ,1
+Public Liability,Public Liability,1   ,1
